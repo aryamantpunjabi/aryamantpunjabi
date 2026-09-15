@@ -78,12 +78,6 @@ I'm a **Cloud & DevOps Engineer** focused on **AWS, CI/CD, automation, and infra
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB"/>
 </a>
-<a href="https://mariadb.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="50" height="50" alt="MariaDB"/>
-</a>
-<a href="https://www.oracle.com/database/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle"/>
-</a>
 </p>
 
 ### 💻 Development & Testing
