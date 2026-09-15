@@ -34,7 +34,7 @@ I'm a **Cloud & DevOps Engineer** focused on **AWS, CI/CD, automation, and infra
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker"/>
 </a>
 <a href="https://kubernetes.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes"/>
+<img src="https://img.icons8.com/color/48/kubernetes.png" width="50" height="50" alt="Kubernetes"/>
 </a>
 <a href="https://www.ansible.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="50" height="50" alt="Ansible"/>
