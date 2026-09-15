@@ -47,14 +47,8 @@ I'm a **Cloud & DevOps Engineer** focused on **AWS, CI/CD, automation, and infra
 <a href="https://www.jenkins.io/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50" alt="Jenkins"/>
 </a>
-<a href="https://circleci.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="50" height="50" alt="CircleCI"/>
-</a>
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git"/>
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50" height="50" alt="Bash"/>
 </a>
 </p>
 
